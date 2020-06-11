@@ -13,7 +13,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Power Of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/) : [Solution](Week_2/PowerofTwo.py)
   - [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) : [Solution](Week_2/IsSubsequence.py)
   - [Search Insert Position](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/) : [Solution](Week_2/searchInsertPosition.py)
-  - []() : [Solution](Week_2/)
+  - [Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/) : [Solution](Week_2/sortColors.py)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
