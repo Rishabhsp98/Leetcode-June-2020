@@ -16,7 +16,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/) : [Solution](Week_2/sortColors.py)
   - [Insert Delete GetRandom O(1)](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/) : [Solution](Week_2/getRandom.py)
   - [Largest Divisible Subset](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/) : [Solution](Week_2/LargestSubset.py)
-  - []() : [Solution](Week_2/)
+  - [Cheapest Flight Within K Stops](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/) : [Solution](Week_2/CheapestFlight.py)
 
 - Week 3:
   - []() : [Solution](Week_3/)
