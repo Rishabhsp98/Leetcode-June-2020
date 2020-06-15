@@ -19,7 +19,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Cheapest Flight Within K Stops](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/) : [Solution](Week_2/CheapestFlight.py)
 
 - Week 3:
-  - []() : [Solution](Week_3/)
+  - [Search in a Binary Search Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/) : [Solution](Week_3/searchBST.py)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
