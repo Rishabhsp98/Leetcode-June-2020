@@ -20,7 +20,7 @@ Leetcode June Challenge 2020 Python Solutions
 
 - Week 3:
   - [Search in a Binary Search Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/) : [Solution](Week_3/searchBST.py)
-  - []() : [Solution](Week_3/)
+  - [Validate IP Address](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/) : [Solution](Week_3/validateIPAddress.py)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
