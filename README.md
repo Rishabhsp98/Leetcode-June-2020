@@ -24,7 +24,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Surrounded Regions](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/) : [Solution](Week_3/surroundedRegions.py)
   - [H-Index II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/) : [Solution](Week_3/hindex.py)
   - [Longest Duplicate Substring](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/) : [Solution](Week_3/longdupsubstr.py)
-  - []() : [Solution](Week_3/)
+  - [Permutation Sequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/) : [Solution](Week_3/permutationsequence.py)
   - []() : [Solution](Week_3/)
 
 - Week 4:
