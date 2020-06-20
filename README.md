@@ -23,7 +23,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Validate IP Address](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/) : [Solution](Week_3/validateIPAddress.py)
   - [Surrounded Regions](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/) : [Solution](Week_3/surroundedRegions.py)
   - [H-Index II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/) : [Solution](Week_3/hindex.py)
-  - []() : [Solution](Week_3/)
+  - [Longest Duplicate Substring](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/) : [Solution](Week_3/longdupsubstr.py)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
 
