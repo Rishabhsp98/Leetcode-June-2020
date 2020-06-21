@@ -25,7 +25,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [H-Index II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/) : [Solution](Week_3/hindex.py)
   - [Longest Duplicate Substring](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/) : [Solution](Week_3/longdupsubstr.py)
   - [Permutation Sequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/) : [Solution](Week_3/permutationsequence.py)
-  - []() : [Solution](Week_3/)
+  - [Dungeon Game](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/) : [Solution](Week_3/dungeongame.py)
 
 - Week 4:
   - []() : [Solution](Week_4/)
