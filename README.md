@@ -28,7 +28,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Dungeon Game](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/) : [Solution](Week_3/dungeongame.py)
 
 - Week 4:
-  - []() : [Solution](Week_4/)
+  - [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) : [Solution](Week_4/singlenumber2.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
