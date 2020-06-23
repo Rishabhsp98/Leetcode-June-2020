@@ -29,7 +29,7 @@ Leetcode June Challenge 2020 Python Solutions
 
 - Week 4:
   - [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) : [Solution](Week_4/singlenumber2.py)
-  - []() : [Solution](Week_4/)
+  - [Count Complete Tree Nodes](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/) : [Solution](Week_4/countNodes.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
