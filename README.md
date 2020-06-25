@@ -31,7 +31,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) : [Solution](Week_4/singlenumber2.py)
   - [Count Complete Tree Nodes](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/) : [Solution](Week_4/countNodes.py)
   - [Unique Binary Search Trees](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/) : [Solution](Week_4/UniqueBST.py)
-  - []() : [Solution](Week_4/)
+  - [Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/) : [Solution](Week_4/duplicatenum.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
