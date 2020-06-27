@@ -33,7 +33,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Unique Binary Search Trees](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/) : [Solution](Week_4/UniqueBST.py)
   - [Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/) : [Solution](Week_4/duplicatenum.py)
   - [Sum Root to Leaf Numbers](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/) : [Solution](Week_4/sumRootLeaf.py)
-  - []() : [Solution](Week_4/)
+  - [Perfect Squares](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/) : [Solution](Week_4/perfectSquare.py)
   - []() : [Solution](Week_4/)
 
 - Week 5:
