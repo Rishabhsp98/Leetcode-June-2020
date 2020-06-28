@@ -34,7 +34,7 @@ Leetcode June Challenge 2020 Python Solutions
   - [Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/) : [Solution](Week_4/duplicatenum.py)
   - [Sum Root to Leaf Numbers](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/) : [Solution](Week_4/sumRootLeaf.py)
   - [Perfect Squares](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3373/) : [Solution](Week_4/perfectSquare.py)
-  - []() : [Solution](Week_4/)
+  - [Reconstruct Itinerary]() : [Solution](Week_4/reconstructitinerary.py)
 
 - Week 5:
   - []() : [Solution](Week_5/)
