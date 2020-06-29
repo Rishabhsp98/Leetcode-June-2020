@@ -37,6 +37,6 @@ Leetcode June Challenge 2020 Python Solutions
   - [Reconstruct Itinerary]() : [Solution](Week_4/reconstructitinerary.py)
 
 - Week 5:
-  - []() : [Solution](Week_5/)
+  - [Unique Paths](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/) : [Solution](Week_5/uniquepaths.py)
   - []() : [Solution](Week_5/)
 
